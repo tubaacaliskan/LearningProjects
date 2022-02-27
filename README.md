@@ -1,1 +1,3 @@
 # LearningProjects
+
+Projeye başlıyorum
